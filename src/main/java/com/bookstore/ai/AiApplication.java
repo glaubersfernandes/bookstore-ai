@@ -11,7 +11,7 @@ public class AiApplication {
 
 	@GetMapping("/")
 	public String status() {
-		return "Bem-vindo ao BookStoreAI";
+		return "Bem-vindo ao BookstoreAI";
 	}
 	
 	public static void main(String[] args) {
